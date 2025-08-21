@@ -6,6 +6,8 @@ a way to pay for a ticket
 
 pricing for tickets. currently thinking $45 for a main ticket, $15 for a volunteer ticket, and $120 for a supporter ticket
 
+some images from previous meetups
+
 ##fun
         * SPA  C   E     D             R E P  E  T    I     T       I         O          N
         * ACTIVE ||RECALL||
