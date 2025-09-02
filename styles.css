@@ -138,8 +138,12 @@ a:hover { color: var(--color-accent); }
 
 /* Special Guests */
 .special-guests { margin: 32px auto; }
-.section-title { margin: 0 0 12px 0; font-size: 24px; line-height: 1.3; }
-.guests-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+.section-title { margin: 0 0 12px 0; font-size: 28px; line-height: 1.3; }
+.guests-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 32px;
+  }
 .guest-card { padding: 16px; }
 .guest-name { margin: 0 0 6px 0; font-size: 18px; }
 .guest-bio { margin: 0; }
